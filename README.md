@@ -1,12 +1,2 @@
-校语用户注册协议
+[校语用户注册协议](http://agreementx.normbit.com)
 ====
-
-# Install
-```sh
-brew install pandoc
-```
-
-# Generate
-```sh
-bin/generate.sh
-```
